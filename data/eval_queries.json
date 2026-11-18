@@ -1,0 +1,182 @@
+[
+ {
+  "query": "Hello!",
+  "label": "simple"
+ },
+ {
+  "query": "Thanks, that helps",
+  "label": "simple"
+ },
+ {
+  "query": "What is the capital of Japan?",
+  "label": "simple"
+ },
+ {
+  "query": "Who wrote Pride and Prejudice?",
+  "label": "simple"
+ },
+ {
+  "query": "Translate 'good morning' to Spanish",
+  "label": "simple"
+ },
+ {
+  "query": "What does ephemeral mean?",
+  "label": "simple"
+ },
+ {
+  "query": "hi there",
+  "label": "simple"
+ },
+ {
+  "query": "When was the Eiffel Tower built?",
+  "label": "simple"
+ },
+ {
+  "query": "Define photosynthesis",
+  "label": "simple"
+ },
+ {
+  "query": "What is 12 times 8?",
+  "label": "simple"
+ },
+ {
+  "query": "How do you say thank you in French?",
+  "label": "simple"
+ },
+ {
+  "query": "Is Python a compiled language?",
+  "label": "simple"
+ },
+ {
+  "query": "What's the currency of Brazil?",
+  "label": "simple"
+ },
+ {
+  "query": "Convert 5 km to miles",
+  "label": "simple"
+ },
+ {
+  "query": "Good morning!",
+  "label": "simple"
+ },
+ {
+  "query": "Explain how a hash table works",
+  "label": "moderate"
+ },
+ {
+  "query": "Summarize the pros and cons of remote work",
+  "label": "moderate"
+ },
+ {
+  "query": "Write a short email asking my manager for a day off",
+  "label": "moderate"
+ },
+ {
+  "query": "What is the difference between TCP and UDP?",
+  "label": "moderate"
+ },
+ {
+  "query": "Give me a 3-day itinerary for Rome",
+  "label": "moderate"
+ },
+ {
+  "query": "Explain the causes of World War I in a few paragraphs",
+  "label": "moderate"
+ },
+ {
+  "query": "Write a Python function to reverse a linked list",
+  "label": "moderate"
+ },
+ {
+  "query": "How does compound interest work and how do I calculate it?",
+  "label": "moderate"
+ },
+ {
+  "query": "Suggest five names for a coffee shop and explain each",
+  "label": "moderate"
+ },
+ {
+  "query": "Compare React and Vue for a small project",
+  "label": "moderate"
+ },
+ {
+  "query": "Explain what a REST API is with an example",
+  "label": "moderate"
+ },
+ {
+  "query": "What are good strategies for learning a new language quickly?",
+  "label": "moderate"
+ },
+ {
+  "query": "Write a SQL query to find the top 5 customers by total order value",
+  "label": "moderate"
+ },
+ {
+  "query": "Describe how vaccines train the immune system",
+  "label": "moderate"
+ },
+ {
+  "query": "Give me tips for preparing for a job interview in tech",
+  "label": "moderate"
+ },
+ {
+  "query": "Design a distributed rate limiter that works across multiple data centers and analyze the trade-offs between consistency and latency",
+  "label": "complex"
+ },
+ {
+  "query": "Prove that the square root of 2 is irrational, then generalize the proof to any non-square integer",
+  "label": "complex"
+ },
+ {
+  "query": "Debug this code and explain the race condition:\n```python\nimport threading\ncount = 0\ndef inc():\n    global count\n    for _ in range(1000):\n        count += 1\n```",
+  "label": "complex"
+ },
+ {
+  "query": "Implement an LRU cache from scratch in Python with O(1) operations, include unit tests and explain the time complexity",
+  "label": "complex"
+ },
+ {
+  "query": "Derive the backpropagation equations for a two-layer neural network step by step",
+  "label": "complex"
+ },
+ {
+  "query": "Compare microservices and monolith architectures for a fintech startup, evaluate scaling, cost and team structure, and recommend a migration plan",
+  "label": "complex"
+ },
+ {
+  "query": "Write a dynamic programming solution for the edit distance problem, explain the recurrence, and optimize the space complexity",
+  "label": "complex"
+ },
+ {
+  "query": "Refactor a monolithic Django app into services; describe the architecture, data migration strategy, rollback plan, and testing approach",
+  "label": "complex"
+ },
+ {
+  "query": "Explain step by step how to solve the integral of x^2 * e^x dx and verify the result by differentiation",
+  "label": "complex"
+ },
+ {
+  "query": "Design a database schema for a multi-tenant SaaS billing system, then write the SQL migrations and explain the indexing strategy",
+  "label": "complex"
+ },
+ {
+  "query": "Evaluate the trade-offs of using Kafka versus RabbitMQ for an event-driven order pipeline handling 50k messages per second, and design the failure handling",
+  "label": "complex"
+ },
+ {
+  "query": "Write a concurrent web crawler in Go that respects robots.txt, handles retries with backoff, and explain how you avoid race conditions",
+  "label": "complex"
+ },
+ {
+  "query": "I need an algorithm to schedule 200 jobs across 8 machines minimizing makespan. Analyze approaches, prove an approximation bound for the greedy one, and implement it",
+  "label": "complex"
+ },
+ {
+  "query": "Critique this system architecture for single points of failure and propose a fault-tolerant redesign with distributed consensus",
+  "label": "complex"
+ },
+ {
+  "query": "Analyze these three scenarios and optimize the allocation: 1. a 60/40 portfolio under rising rates 2. an all-equity portfolio in a recession 3. a bond-heavy portfolio under inflation. Show the math for each.",
+  "label": "complex"
+ }
+]
